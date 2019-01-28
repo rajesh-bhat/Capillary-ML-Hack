@@ -1,5 +1,4 @@
 # Capillary-ML-Hack
-Capillary-ML-Hack, Analytics Vidhya
 
 ### Problem statement
 Capillary Hackathon -  Recommender system for fashion retail.
